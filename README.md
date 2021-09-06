@@ -1,1 +1,1 @@
-# pub-sub-vanilla-js
+# Publisher subscriber model demo using Vanilla JS
